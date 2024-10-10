@@ -1,0 +1,7 @@
+C:\Users\Programista\Desktop\3CT\c#\10.10.2024\Przyklad\Przyklad\bin\Debug\Przyklad.exe.config
+C:\Users\Programista\Desktop\3CT\c#\10.10.2024\Przyklad\Przyklad\bin\Debug\Przyklad.exe
+C:\Users\Programista\Desktop\3CT\c#\10.10.2024\Przyklad\Przyklad\bin\Debug\Przyklad.pdb
+C:\Users\Programista\Desktop\3CT\c#\10.10.2024\Przyklad\Przyklad\obj\Debug\Przyklad.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\3CT\c#\10.10.2024\Przyklad\Przyklad\obj\Debug\Przyklad.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\3CT\c#\10.10.2024\Przyklad\Przyklad\obj\Debug\Przyklad.exe
+C:\Users\Programista\Desktop\3CT\c#\10.10.2024\Przyklad\Przyklad\obj\Debug\Przyklad.pdb
